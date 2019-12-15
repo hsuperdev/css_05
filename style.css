@@ -1,0 +1,18 @@
+ul li {
+  list-style-type: disc;
+  list-style-type: circle;
+  list-style-type: square;
+  border: 1px solid #ccc;
+  list-style-position: outside;
+  list-style-image: url("https://mdn.mozillademos.org/files/11981/starsolid.gif");
+}
+
+ol li {
+  list-style-type: upper-alpha;
+  list-style-type: upper-roman;
+  list-style-type: decimal-leading-zero;
+  list-style-type: lower-alpha;
+  list-style-type: upper-alpha
+  border: 1px solid #ccc;
+  
+}
